@@ -1,0 +1,71 @@
+<br>
+<br>
+  
+![](http://www.columbia.edu/~sw2206/cu_mailman_logo.png) 
+  
+# **Candace Haghighi**
+### `Columbia MPH | Biostatistics`
+
+***
+
+> Second year epidemiology graduate student at Columbia University with a focus on biostatistics and data science. Class of 2018. Merging an understanding of health environments and large data sets to surface new and valueable insights around patient diagnosis.
+
+***
+
+#### Relevant Links:  [Github](https://github.com/candacehaghighi) | [Columbia](http://www.columbia.edu) | [Mailman](https://www.mailman.columbia.edu/) | [Email](mailto:cbh2134@cumc.columbia.edu)
+
+***
+
+### EDUCATION
+##### **University of Washington, 2014**
++ B.S. Microbiology 
++ B.S. Molecular Biology
++ *Honors Undergraduate Thesis Topic:* The use of an inducible lentivirus shRNA system to knockdown genes of interest in airway epithelial cells and human lung fibroblasts to study the role of the epithelium in airway remodeling. 	
+
+##### **Columbia University, 2018**
++ M.P.H. Epidemiology/Biostatistics 
+
+***
+
+### WORK EXPERIENCE
+##### **Path (Seattle, WA)**
++ *Project Coordinator:* Devices and Tools, Health Technologies for Women and Children. Work closely with the Principal Investigator, Research Scientists, Commercialization Officers, Project Administrators, and external partners to plan and coordinate the research and development of new dosage forms as they progress through formulation development. Project topics incldued Freeze-drying Platform Technology, Vaccine Adjuvants, Assay Development, Landscape Analysis of Current Drug Dosage Forms.
+
+##### **Qliance Health (Seattle, WA)**
++ *Project Coordinator:* Worked directly under the Chief Marketing Officer to implement a new and innovative marketing campaign. Organized and maintained project records, project timelines, and files with Microsoft Office.
+
+##### **Vectr (Seattle, WA)**
++ *Co-Founder:* [Vectr](www.vectrapp.com) is an organizational knowledge sharing platform that leverages artificial intelligence and modern design to empower people to ask important questions and ask them to experts who know best. Co-founded the company in 2015.
+
+***
+
+### RESEARCH
+##### **Dr. Jason Debley Lab | Seattle Children’s Research Institute, Center for Immunity and Immunotherapies**
++ *Research Assistant:* Explored potential aberrant epithelial-mesenchymal crosstalk in the asthmatic airway using acquired cells from human subjects. Performed a high volume of mammalian cell tissue culture. Assisted in the design, execution, and interpretation of experiments.
+
+##### **Dr. Mary Lidstrom Lab | University of Washington, Microbiology Department**
++ *Research Assistant:* Executed efficient lab practices around acquisition of usable microbial samples to study methane metabolism, analyzed microbial metabolic networks, and perfected general laboratory techniques.
+
+##### **Dr. Georg Seelig Lab | University of Washington, Electrical Engineering Department**
++ *Research Assistant:* Developed a non-directional expression vector to study the efficiency of microRNA biogenesis and microRNA regulatory dynamics; assisted in vector transfection in hES cells. Managed budget, administrative documents, laboratory supplies, and weekly meetings for post-doctoral candidates.
+
+***
+
+### SKILLSET
+Operations | Techincal/Data | Languages
+------------- | ------------- | -------------
+Outlook | R Programming | English
+Word | SAS | Farsi
+SharePoint | PRISM | Turkish (Elementary)
+PowerPoint | Excel | Spanish (Elementary)
+MS Project | Access |
+GitHub | Stata | 
+
+
+***
+
+###**[TOP](#)**
+Copyright 2017 Candace Haghighi
+
+<br>
+<br>
