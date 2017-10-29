@@ -19,17 +19,17 @@
 ### EDUCATION
 ##### **University of Washington, 2014**
 + B.S. Microbiology 
-+ B.S. Molecular Biology
++ B.S. Molecular/Cellular/Developmental Biology
 + *Honors Undergraduate Thesis Topic:* The use of an inducible lentivirus shRNA system to knockdown genes of interest in airway epithelial cells and human lung fibroblasts to study the role of the epithelium in airway remodeling. 	
 
 ##### **Columbia University, 2018**
-+ M.P.H. Epidemiology/Biostatistics 
++ MPH Epidemiology/Biostatistics 
 
 ***
 
 ### WORK EXPERIENCE
-##### **Path (Seattle, WA)**
-+ *Project Coordinator:* Devices and Tools, Health Technologies for Women and Children. Work closely with the Principal Investigator, Research Scientists, Commercialization Officers, Project Administrators, and external partners to plan and coordinate the research and development of new dosage forms as they progress through formulation development. Project topics incldued Freeze-drying Platform Technology, Vaccine Adjuvants, Assay Development, Landscape Analysis of Current Drug Dosage Forms.
+##### **PATH (Seattle, WA)**
++ *Pre-Clinical Project Coordinator:* Health Technologies for Women and Children. Worked closely with the Principal Investigator, Research Scientists, and external partners to plan and coordinate the research and development of new microbicide dosage forms. Project topics incldued Freeze-drying Platform Technology, Vaccine Adjuvants, Assay Development, Landscape Analysis of Current Drug Dosage Forms.
 
 ##### **Qliance Health (Seattle, WA)**
 + *Project Coordinator:* Worked directly under the Chief Marketing Officer to implement a new and innovative marketing campaign. Organized and maintained project records, project timelines, and files with Microsoft Office.
@@ -56,7 +56,7 @@ Operations | Techincal/Data | Languages
 ------------- | ------------- | -------------
 Outlook | R Programming | English
 Word | SAS | Farsi
-SharePoint | PRISM | Turkish (Elementary)
+SharePoint | PRISM | Turkish (Elemntary)
 PowerPoint | Excel | Spanish (Elementary)
 MS Project | Access |
 GitHub | Stata | 
