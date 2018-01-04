@@ -17,25 +17,33 @@
 ***
 
 ### EDUCATION
-##### **University of Washington, 2014**
-+ B.S. Microbiology 
-+ B.S. Molecular/Cellular/Developmental Biology
-+ *Honors Undergraduate Thesis Topic:* The use of an inducible lentivirus shRNA system to knockdown genes of interest in airway epithelial cells and human lung fibroblasts to study the role of the epithelium in airway remodeling. 	
+##### **Columbia University, Mailman School of Public Health**
++ MPH in Epidemiology/Biostatistics 
++ GPA: 3.9
++ *Graduate Thesis:* Examining the relation between immune genes mutations and chromosomally normal miscarriage.
 
-##### **Columbia University, 2018**
-+ MPH Epidemiology/Biostatistics 
+##### **University of Washington, College Honors Program**
++ B.Sc. in Microbiology 
++ B.Sc. in Molecular/Cellular/Developmental Biology
++ GPA: 3.5
++ *Honors Undergraduate Thesis:* Used an inducible lentivirus shRNA system to knockdown genes of interest in airway epithelial cells and human lung fibroblasts to study the role of the epithelium in airway remodeling. 	
 
 ***
 
 ### WORK EXPERIENCE
-##### **PATH (Seattle, WA)**
-+ *Pre-Clinical Project Coordinator:* Health Technologies for Women and Children. Worked closely with the Principal Investigator, Research Scientists, and external partners to plan and coordinate the research and development of new microbicide dosage forms. Project topics incldued Freeze-drying Platform Technology, Vaccine Adjuvants, Assay Development, Landscape Analysis of Current Drug Dosage Forms.
+##### **Columbia University Medical Center (New York, NY)**
++ *Data Analyst* 
 
-##### **Qliance Health (Seattle, WA)**
-+ *Project Coordinator:* Worked directly under the Chief Marketing Officer to implement a new and innovative marketing campaign. Organized and maintained project records, project timelines, and files with Microsoft Office.
+##### **Project STAY (New York, NY)**
++ *Health Educator* 
+
+##### **PATH (Seattle, WA)**
++ *Pre-Clinical Project Coordinator* 
+
++ *Laboratory Technician* 
 
 ##### **Vectr (Seattle, WA)**
-+ *Co-Founder:* [Vectr](www.vectrapp.com) is an organizational knowledge sharing platform that leverages artificial intelligence and modern design to empower people to ask important questions and ask them to experts who know best. Co-founded the company in 2015.
++ *Co-Founder:* [Vectr](www.vectrapp.com) 
 
 ***
 
@@ -43,11 +51,11 @@
 ##### **Dr. Jason Debley Lab | Seattle Children’s Research Institute, Center for Immunity and Immunotherapies**
 + *Research Assistant:* Explored potential aberrant epithelial-mesenchymal crosstalk in the asthmatic airway using acquired cells from human subjects. Performed a high volume of mammalian cell tissue culture. Assisted in the design, execution, and interpretation of experiments.
 
-##### **Dr. Mary Lidstrom Lab | University of Washington, Microbiology Department**
+##### **Dr. Mary Lidstrom Lab | University of Washington, Department of Microbiology**
 + *Research Assistant:* Executed efficient lab practices around acquisition of usable microbial samples to study methane metabolism, analyzed microbial metabolic networks, and perfected general laboratory techniques.
 
-##### **Dr. Georg Seelig Lab | University of Washington, Electrical Engineering Department**
-+ *Research Assistant:* Developed a non-directional expression vector to study the efficiency of microRNA biogenesis and microRNA regulatory dynamics; assisted in vector transfection in hES cells. Managed budget, administrative documents, laboratory supplies, and weekly meetings for post-doctoral candidates.
+##### **Dr. Georg Seelig Lab | University of Washington, Department of Electrical Engineering**
++ *Research Assistant:* Developed a non-directional expression vector to study the efficiency of microRNA biogenesis and microRNA regulatory dynamics; assisted in vector transfection in hES cells. Managed administrative documents, laboratory supplies, and weekly meetings for post-doctoral candidates.
 
 ***
 
@@ -56,11 +64,10 @@ Operations | Techincal/Data | Languages
 ------------- | ------------- | -------------
 Outlook | R Programming | English
 Word | SAS | Farsi
-SharePoint | PRISM | Turkish (Elemntary)
-PowerPoint | Excel | Spanish (Elementary)
-MS Project | Access |
-GitHub | Stata | 
-
+SharePoint | PRISM | Turkish (Elementary)
+PowerPoint | Access | Spanish (Elementary)
+MS Project | MySQL |
+GitHub | Excel | 
 
 ***
 
