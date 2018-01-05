@@ -1,18 +1,7 @@
 <br>
 <br>
-  
-![](http://www.columbia.edu/~sw2206/cu_mailman_logo.png) 
-  
-# **Candace Haghighi**
-### `Columbia MPH | Epidemiology | Biostatistics`
 
-***
-
-> Resume
-
-***
-
-#### Relevant Links:  [Home Page](https://candacehaghighi.github.io)
+## Resume
 
 ***
 
@@ -43,7 +32,7 @@
 + *Laboratory Technician* 
 
 ##### **Vectr (Seattle, WA)**
-+ *Co-Founder:* [Vectr](www.vectrapp.com) 
++ *Co-Founder:* [Vectr](www.vectrapp.com). 
 
 ***
 
