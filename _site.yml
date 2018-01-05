@@ -6,7 +6,7 @@ navbar:
     - text: "Resume"
       href: resumepage.html
     - text: "Papers"
-      href: 
+      href: https://github.com/candacehaghighi
     - icon: fa-envelope fa-lg
       href: mailto:cbh2134@columbia.edu
     - icon: fa-github fa-lg
@@ -15,5 +15,5 @@ output:
   html_document:
     theme: flatly
     include:
-      after_body: footer.html
+      after_body: 
     css: styles.css

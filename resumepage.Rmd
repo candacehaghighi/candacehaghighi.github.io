@@ -1,5 +1,4 @@
 <br>
-<br>
 
 ## Resume
 
@@ -8,13 +7,13 @@
 ### EDUCATION
 ##### **Columbia University, Mailman School of Public Health**
 + MPH in Epidemiology/Biostatistics 
-+ GPA: 3.9
++ Graduate GPA: 3.9
 + *Graduate Thesis:* Examining the relation between immune genes mutations and chromosomally normal miscarriage.
 
 ##### **University of Washington, College Honors Program**
 + B.Sc. in Microbiology 
 + B.Sc. in Molecular/Cellular/Developmental Biology
-+ GPA: 3.5
++ Undergrate GPA: 3.5
 + *Honors Undergraduate Thesis:* Used an inducible lentivirus shRNA system to knockdown genes of interest in airway epithelial cells and human lung fibroblasts to study the role of the epithelium in airway remodeling. 	
 
 ***
