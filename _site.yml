@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Resume"
       href: resumepage.html
-    - text: "Papers"
-      href: https://github.com/candacehaghighi
+    - text: "Papers/Abstracts"
+      href: papersabstracts.html
     - icon: fa-envelope fa-lg
       href: mailto:cbh2134@columbia.edu
     - icon: fa-github fa-lg
