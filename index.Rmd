@@ -13,7 +13,7 @@
 
 ***
 
-I am a second-year graduate student at Columbia University with a focus on epidemiology and biostatistics. I focus on the intersection between clinical research, data science and reproductive health to surface new and valueable insights in disease diagnosis.
+I am a second-year graduate student at Columbia University studying epidemiology and biostatistics. I focus on the intersection between clinical research, data science and reproductive health to surface new and valueable insights in disease diagnosis.
 
 ***
 
