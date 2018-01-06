@@ -43,12 +43,12 @@
 + *Research Assistant:* Executed efficient lab practices around acquisition of usable microbial samples to study methane metabolism, analyzed microbial metabolic networks, and perfected general laboratory techniques.
 
 ##### **Dr. Georg Seelig Lab | University of Washington, Department of Electrical Engineering**
-+ *Research Assistant:* Developed a non-directional expression vector to study the efficiency of microRNA biogenesis and microRNA regulatory dynamics; assisted in vector transfection in hES cells. Managed administrative documents, laboratory supplies, and weekly meetings for post-doctoral candidates.
++ *Research Assistant:* Developed a non-directional expression vector to study the efficiency of microRNA biogenesis and microRNA regulatory dynamics; assisted in vector transfection in hES cells. 
 
 ***
 
 ### SKILLSET
-Operations | Techincal/Data | Languages
+Operations | Technical/Data | Languages
 ------------- | ------------- | -------------
 Outlook | R Programming | English
 Word | SAS | Farsi
