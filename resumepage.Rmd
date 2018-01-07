@@ -13,7 +13,7 @@
 ##### **University of Washington, College Honors Program**
 + B.Sc. in Microbiology 
 + B.Sc. in Molecular/Cellular/Developmental Biology
-+ Undergrate GPA: 3.5
++ Undergraduate GPA: 3.5
 + *Honors Undergraduate Thesis:* Used an inducible lentivirus shRNA system to knockdown genes of interest in airway epithelial cells and human lung fibroblasts to study the role of the epithelium in airway remodeling. 	
 
 ***
