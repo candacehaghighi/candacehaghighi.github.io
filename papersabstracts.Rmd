@@ -16,10 +16,11 @@ output:
 
 ## 2018
 
-Richard G James, Stephen R. Reeves, Kaitlyn A Barrow, Maria P. White, Veronika A Glukhova, **Candace Haghighi**, Dana Seyoum, and Jason S. Debley. Deficient Follistatin-like 3 Secretion by Asthmatic Airway Epithelium Impairs Fibroblast Regulation and Fibroblast-to-myofibroblast Transition. <i> American Journal of Respiratory Cell and Molecular Biology. <i> [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29394092)]
+Richard G. James, Stephen R. Reeves, Kaitlyn A. Barrow, Maria P. White, Veronika A. Glukhova, **Candace Haghighi**, Dana Seyoum, and Jason S. Debley. Deficient Follistatin-like 3 Secretion by Asthmatic Airway Epithelium Impairs Fibroblast Regulation and Fibroblast-to-myofibroblast Transition. <i> American Journal of Respiratory Cell and Molecular Biology. </i> [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29394092)]
 
 ## 2017
 
+Jessica A. White, **Candace Haghighi**, Johanna Brunner, Marcus Estrada, Manjari Lal, and Dexiang Chen. Preformulation studies with <i> Escherichia coli </i> double mutant heat-labile toxin adjuvant for use in an oral vaccine. <i> Journal of Immunological Methods. </i> [[PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5703769/)]
 
 ## 2016
 
