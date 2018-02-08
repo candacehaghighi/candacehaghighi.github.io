@@ -16,7 +16,7 @@ output:
 
 ## 2018
 
-Richard G James, Stephen R. Reeves, Kaitlyn A Barrow, Maria P. White, Veronika A Glukhova, **Candace Haghighi**, Dana Seyoum, and Jason S. Debley. Deficient Follistatin-like 3 Secretion by Asthmatic Airway Epithelium Impairs Fibroblast Regulation and Fibroblast-to-myofibroblast Transition. <i> American Journal of Respiratory Cell and Molecular Biology <i>
+Richard G James, Stephen R. Reeves, Kaitlyn A Barrow, Maria P. White, Veronika A Glukhova, **Candace Haghighi**, Dana Seyoum, and Jason S. Debley. Deficient Follistatin-like 3 Secretion by Asthmatic Airway Epithelium Impairs Fibroblast Regulation and Fibroblast-to-myofibroblast Transition. <i> American Journal of Respiratory Cell and Molecular Biology. <i> [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29394092)]
 
 ## 2017
 
