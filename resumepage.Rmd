@@ -50,7 +50,7 @@
 ### SKILLSET
 Operations | Technical/Data | Languages
 ------------- | ------------- | -------------
-Outlook | R Programming | English
+Outlook | R | English
 Word | SAS | Farsi
 SharePoint | PRISM | Turkish (Elementary)
 PowerPoint | Access | Spanish (Elementary)
