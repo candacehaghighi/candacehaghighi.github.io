@@ -7,8 +7,8 @@
 ### EDUCATION
 ##### **Columbia University, Mailman School of Public Health**
 + MPH in Epidemiology/Biostatistics 
-+ Graduate GPA: 3.9
-+ *Graduate Thesis:* Examining the relation between immune gene mutations and chromosomally normal miscarriage.
++ Graduate GPA: 3.95
++ *Graduate Thesis:* Comparison of scoring systems used to identify non-synonymous, missense variants in exome sequencing studies of CHD and no CHD probands.
 
 ##### **University of Washington, College Honors Program**
 + B.Sc. in Microbiology 
@@ -60,7 +60,7 @@ GitHub | Excel |
 ***
 
 ###**[TOP](#)**
-Copyright 2018 Candace Haghighi
+<p class="copyright text-muted" align="center">Copyright &copy; 2018 Candace Haghighi</p>
 
 <br>
 <br>

@@ -31,7 +31,7 @@ Jessica A. White, **Candace Haghighi**, Johanna Brunner, Marcus Estrada, Manjari
 ***
 
 ###**[TOP](#)**
-Copyright 2018 Candace Haghighi
+<p class="copyright text-muted" align="center">Copyright &copy; 2018 Candace Haghighi</p>
 
 <br>
 <br>

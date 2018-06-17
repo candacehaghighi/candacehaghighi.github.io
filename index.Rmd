@@ -35,5 +35,9 @@ New York, New York 10032
 Email: [cbh2134@columbia.edu](mailto:cbh2134@columbia.edu)  
 Phone: 425-214-3279
 
+<br> 
+
+<p class="copyright text-muted" align="center">Copyright &copy; 2018 Candace Haghighi</p>
+
 <br>
 <br>
